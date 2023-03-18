@@ -12,10 +12,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhishek-bhardwaj-3a638222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-bhardwaj-3a638222a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhishek6252" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhishek6252" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/_2d_201500016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_2d_201500016" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhishek6252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek6252" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek-bhardwaj-3a638222a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-bhardwaj-3a638222a" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhishek6252" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhishek6252" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/_2d_201500016" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_2d_201500016" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhishek6252" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek6252" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
