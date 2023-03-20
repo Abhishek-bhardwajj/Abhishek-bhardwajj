@@ -28,9 +28,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-bhardwajj&" alt="abhishek-bhardwajj" /></p>
 
 
-## 💹 Contribution Graph:
-<div align = "center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhishek-bhardwajj&theme=react&hide_border=false&area=true" width="900px" >
-</div>
-<br>
-<div align = "center">
+
